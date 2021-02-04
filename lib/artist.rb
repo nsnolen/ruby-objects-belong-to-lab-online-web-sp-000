@@ -3,6 +3,3 @@ class Artist
 
 end
 
-class Song
-  attr_accessor :title
-end
